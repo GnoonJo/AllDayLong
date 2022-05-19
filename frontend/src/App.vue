@@ -45,7 +45,6 @@
     <!-- 메인 content 위치 -->
     <v-main>
       <v-container>
-
         <!-- Top 버튼 -->
         <v-btn
           fab dark fixed bottom right
@@ -54,7 +53,6 @@
         >
           <v-icon>mdi-chevron-double-up</v-icon>
         </v-btn>
-
         <!-- router에 연결된 항목 출력 -->
         <router-view>
         </router-view>
